@@ -15,6 +15,4 @@ public class AppManager extends Application {
         primaryStage.setTitle("Miracle IT");
         primaryStage.show();
     }
-
-
 }
